@@ -141,10 +141,3 @@ h2{
     top: 137%;
     position: absolute;
 }
-.container{
-    width: 50%;
-    background: white; 
-    margin: 10px auto;
-    border-radius: 7px;
-    padding: 15px;  
-}
