@@ -196,3 +196,10 @@
     transform: translateX(-45%) translateY(-50%);
     color: rgb(37, 36, 36);
 }
+.botoncito-all-articles {
+    font-size: 1.3em;
+    position: absolute;
+    top:82.5ex;
+    left:51.7%;
+    transform: translateX(-45%) translateY(-50%);
+}
