@@ -265,7 +265,7 @@
     font-family:liberator;
     font-size: 1.9em;
     position: absolute;
-    top:350%;
+    top:355%;
     left:31.9%;
     transform: translateX(-45%) translateY(-50%);
     color: black;
@@ -274,7 +274,7 @@
     font-family:librebaskerville-italic;
     font-size: 0.9em;
     position: absolute;
-    top:358%;
+    top:364%;
     left:30%;
     transform: translateX(-45%) translateY(-50%);
     color: rgb(124, 123, 123);
@@ -283,7 +283,7 @@
     font-family:twcenmt;
     font-size: 1.3em;
     position: absolute;
-    top:348ex;
+    top:375%;
     left:34.5%;
     transform: translateX(-45%) translateY(-50%);
     color: rgb(88, 86, 86);
@@ -292,7 +292,7 @@
     font-family:twcenmtbold;
     font-size: 1.3em;
     position: absolute;
-    top:360ex;
+    top:388%;
     left:27.2%;
     transform: translateX(-45%) translateY(-50%);
     color: rgb(37, 36, 36);
@@ -301,7 +301,7 @@
     font-family:liberator;
     font-size: 1.9em;
     position: absolute;
-    top:350%;
+    top:355%;
     left:65.4%;
     transform: translateX(-45%) translateY(-50%);
     color: black;
@@ -310,7 +310,7 @@
     font-family:librebaskerville-italic;
     font-size: 0.9em;
     position: absolute;
-    top:358%;
+    top:364%;
     left:64.8%;
     transform: translateX(-45%) translateY(-50%);
     color: rgb(124, 123, 123);
@@ -319,7 +319,7 @@
     font-family:twcenmt;
     font-size: 1.3em;
     position: absolute;
-    top:348ex;
+    top:375%;
     left: 68%;
     transform: translateX(-45%) translateY(-50%);
     color: rgb(88, 86, 86);
@@ -328,7 +328,7 @@
     font-family:twcenmtbold;
     font-size: 1.3em;
     position: absolute;
-    top:360ex;
+    top:388%;
     left:61.7%;
     transform: translateX(-45%) translateY(-50%);
     color: rgb(37, 36, 36);
@@ -336,7 +336,7 @@
 .botoncito-all-articles {
     font-size: 1.3em;
     position: absolute;
-    top:140ex;
+    top:410%;
     left:50%;
     transform: translateX(-45%) translateY(-50%);
 }
