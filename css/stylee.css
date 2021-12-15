@@ -146,7 +146,6 @@
     position: absolute; 
     top:1150px; 
     left:100px;
-    width: 88%;
   }
   #img2 { 
     position: absolute; 
@@ -156,7 +155,7 @@
   #texto2{
     position: absolute; 
     top: 1050px; 
-    left: 600px; 
+    left: 650px; 
     font-size:50px;
   }
   #texto3{
